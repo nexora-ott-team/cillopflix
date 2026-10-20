@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="demo.live" group-title="Live test",Akamai Live Test
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="demo.bipbop" group-title="Live test",Apple BipBop (HLS fMP4)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="demo.bbb" group-title="Open movies",Big Buck Bunny (CC BY 3.0, Blender Foundation)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="demo.tos" group-title="Open movies",Tears of Steel (CC BY 3.0, Blender Foundation)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="demo.tos2" group-title="Open movies",Tears of Steel - subtitles (CC BY 3.0)
+https://test-streams.mux.dev/tos_ismc/main.m3u8
